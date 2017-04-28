@@ -135,9 +135,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Gps_Uwp\Gps_Uwp.csproj">
-      <Project>{d82ab3b6-0068-4130-aca7-7fb485e047c2}</Project>
-      <Name>Gps_Uwp</Name>
+    <ProjectReference Include="..\Gps\Gps.csproj">
+      <Project>{90faf697-3a78-4c6c-b4ca-44c30ce9b294}</Project>
+      <Name>Gps</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

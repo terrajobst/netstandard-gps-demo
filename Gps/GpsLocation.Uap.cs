@@ -4,7 +4,7 @@ using Windows.Devices.Geolocation;
 
 namespace Gps
 {
-    public static class GpsLocation
+    public static partial class GpsLocation
     {
         public static async Task<(double latitude, double longitude)> GetCoordinates()
         {
