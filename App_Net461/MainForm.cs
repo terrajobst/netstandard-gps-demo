@@ -4,9 +4,9 @@ using Gps;
 
 namespace App_Net461
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
@@ -18,7 +18,7 @@ namespace App_Net461
             label1.Text = $"You're at ({geo.latitude:N2}, {geo.longitude:N2})";
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void closeButton_Click(object sender, EventArgs e)
         {
             Close();
         }
