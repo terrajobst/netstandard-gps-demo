@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="8b08be49-4f38-495b-b0c3-75fa4786b7fe" Publisher="CN=immol" Version="1.0.0.0" />
-  <mp:PhoneIdentity PhoneProductId="8b08be49-4f38-495b-b0c3-75fa4786b7fe" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="16f0a9bb-67ba-4549-92e7-38bc1e0d5eb8" Publisher="CN=immol" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="16f0a9bb-67ba-4549-92e7-38bc1e0d5eb8" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>App_Uwp</DisplayName>
     <PublisherDisplayName>immol</PublisherDisplayName>
